@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #This is a lazy script I have for auto-installing Arch.
-#It's not officially part of LARBS, but I use it for testing.
+#It's not officially part of NARBS, but I use it for testing.
 #DO NOT RUN THIS YOURSELF because Step 1 is it reformatting /dev/sda WITHOUT confirmation,
 #which means RIP in peace qq your data unless you've already backed up all of your drive.
 
