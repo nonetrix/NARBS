@@ -1,4 +1,4 @@
-# Nonetrix's Auto-Rice Bootstrapping Scripts (NARBS)
+# Nonetrix's Auto-Rice Bootstrapping Scripts (NARBS) WARNING NOT FINISHED!!
 
 ## Installation:
 
