@@ -36,5 +36,6 @@ A,yt-dlp-drop-in,"can download any YouTube video (or playlist or channel) when g
 A,htop,"is a graphical and colorful system monitor."
 ,moreutils,"is a collection of useful unix tools."
 ,bspwm,"is a window manager"
+,alacritty,"is a terminal"
 A,polybar-git,"is a system bar"
 A,picom-jonaburg-fix,"is for transparency and removing screen-tearing."
