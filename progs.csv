@@ -4,7 +4,7 @@
 ,xorg-xinit,"starts the graphical server."
 ,noto-fonts,"provides the English fonts for NARBS."
 ,noto-fonts-cjk,"provides the Japanese for NARBS."
-,noto-fonts-extra, "provides extra fonts for NARBS."
+,noto-fonts-extra,"provides extra fonts for NARBS."
 A,ttf-joypixels,"is an emoji font."
 A,lf-git,"is an extensive terminal file manager that everyone likes."
 ,dosfstools,"allows your computer to access dos-like filesystems."
