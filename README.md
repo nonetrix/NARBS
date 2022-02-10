@@ -1,5 +1,12 @@
 # Nonetrix's Auto-Rice Bootstrapping Scripts (NARBS) WARNING NOT FINISHED!!
 
+## Known issues:
+```
+- no default wallpaper
+- bspwmrc isn't executable by default 
+- missing zsh configs(I plan to use starship and bash soon)
+```
+
 ## Installation:
 
 On an Arch-based distribution as root, run the following:
