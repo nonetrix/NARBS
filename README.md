@@ -6,6 +6,7 @@
 - bspwmrc isn't executable by default 
 - ProtonVPN doesn't seem to work out of the box and breaks internet connection due to configuration problem
 - missing zsh configs(I plan to use starship and bash soon)
+- random shit doesn't install I don't know how fuck this
 ```
 
 ## Installation:
