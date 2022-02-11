@@ -222,6 +222,8 @@ git update-index --assume-unchanged "/home/$name/README.md" "/home/$name/LICENSE
 # Most important command! Get rid of the beep!
 systembeepoff
 
+chmod +x /home/$name/.config/bspwm/bspwmrc
+
 # Make bash the default shell for the user.
 chsh -s /bin/bash "$name" >/dev/null 2>&1
 sudo -u "$name" mkdir -p "/home/$name/.cache/bash/"
